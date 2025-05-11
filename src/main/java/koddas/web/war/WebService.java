@@ -37,7 +37,7 @@ public class WebService {
 	}
 	
 	/**
-	 * Prints "Hello, World!" when /wwp-1.0.0/webapi/service/hello is accessed.
+	 * Prints """Hello, World!""" when /wwp-1.0.0/webapi/service/hello is accessed.
 	 * 
 	 * @return A web response.
 	 */
